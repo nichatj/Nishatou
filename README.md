@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nishatou
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Phyton, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Melody (@Nishatou)
+- 👀 I’m interested in Computer Science : Front-End developer 
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, JavaFX, Unix, Java, React, NodeJs
+- 📫 How to reach me nishatourj@gmail.com
 
 <!---
 Nishatou/Nishatou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
